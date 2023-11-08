@@ -394,5 +394,5 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 |  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
 |  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
-
+|  💰 | [FounderPass](https://www.founderpass.com/black-friday) | The perks membership for founders and businesses, access to over $1 million of discounts all year round. | 25% off membership for life |
 [⬆️ Go to Top](#table-of-contents)
