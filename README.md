@@ -477,5 +477,6 @@ Total deals: 180
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
 |  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
 | 🤑 | [Blog Money DB](https://blogmoneydb.com) | A complete collection of 60,000+ profitable blogs earning at least $50K per year. Created for content creators, brands and businesses. Updated regularly. | 50% Off Liftime access. Applied Automatically |
+|  💰 | [FounderPass](https://www.founderpass.com/black-friday) | The founder perks club, giving members access to over $1 million of discounts on SaaS and tools all year round.  | 25% off For Life Using code 'BF25LIFE' until 25th Nov |
 
 [⬆️ Go to Top](#table-of-contents)
